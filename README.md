@@ -33,7 +33,7 @@
 
 ### .:*~*:._.:*~*:. ° tools ° .:*~*:._.:*~*:.
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,blender,ps&theme=light" alt="herramientas"/> <img src="https://cdn.simpleicons.org/blockbench/1E93D9" alt="Blockbench" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,blender,ps&theme=light" alt="herramientas"/> <img src="https://cdn.simpleicons.org/blockbench/1E93D9" alt="Blockbench" width="46" height="46" />
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
