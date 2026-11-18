@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="seikel" width="100%"/>
+<img src="./assets/header.svg" alt="header" width="100%"/>
 
 </div>
 
