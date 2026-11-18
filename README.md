@@ -19,6 +19,7 @@
  
 <img src="./assets/divider.svg" alt="" width="100%"/>
 <div align="center">
+ 
 ### .:*~*:._.:*~*:. ° find me ° .:*~*:._.:*~*:.
  
 <a href="https://www.youtube.com/@seikelomg"><img src="https://img.shields.io/badge/YouTube-Minecraft-8FD3A4?style=for-the-badge&logo=youtube&logoColor=2F6B4A&labelColor=EAF8EE"/></a>
@@ -54,6 +55,7 @@
 <div align="center">
 
 ### .:*~*:._.:*~*:. ° contributions ° .:*~*:._.:*~*:.
+
 <img src="https://raw.githubusercontent.com/notseikel/notseikel/output/github-snake.svg" alt="serpiente de contribuciones" width="100%"/>
 
 </div>
