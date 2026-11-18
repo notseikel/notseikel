@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### ◉ sobre mí ◉
+### ° sobre mí °
 
 </div>
 
@@ -29,7 +29,7 @@ $ status
 
 <div align="center">
 
-### ◉ encuéntrame ◉
+### ° find me °
 
 <a href="https://www.youtube.com/@seikelomg"><img src="https://img.shields.io/badge/YouTube-Minecraft-8FD3A4?style=for-the-badge&logo=youtube&logoColor=2F6B4A&labelColor=EAF8EE"/></a>
 <a href="https://www.youtube.com/@seikeeelhack"><img src="https://img.shields.io/badge/YouTube-Hacking-6FBF8A?style=for-the-badge&logo=youtube&logoColor=2F6B4A&labelColor=EAF8EE"/></a>
@@ -44,7 +44,7 @@ $ status
 
 <div align="center">
 
-### ◉ herramientas ◉
+### ° tools °
 
 <img src="https://skillicons.dev/icons?i=html,css,git,github,blender,ps&theme=light" alt="herramientas"/>
 <br/>
@@ -56,7 +56,7 @@ $ status
 
 <div align="center">
 
-### ◉ stats ◉
+### ° stats °
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notseikel&hide_border=true&background=EAF8EE&ring=8FD3A4&fire=5FBF8A&currStreakLabel=4E9F6F&sideLabels=4E9F6F&currStreakNum=2F6B4A&sideNums=2F6B4A&dates=6FAE86" alt="racha de contribuciones"/>
 
@@ -66,7 +66,7 @@ $ status
 
 <div align="center">
 
-### ◉ contribuciones ◉
+### ° contributions °
 
 <img src="https://raw.githubusercontent.com/notseikel/notseikel/output/github-snake.svg" alt="serpiente de contribuciones" width="100%"/>
 
