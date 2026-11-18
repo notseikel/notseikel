@@ -1,1 +1,39 @@
+name: Generar serpiente de contribuciones
 
+on:
+  # todos los días a las 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # permite ejecutarlo a mano desde la pestaña Actions
+  workflow_dispatch:
+  # se ejecuta al actualizar el README o este workflow
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generar el SVG de la serpiente
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: notseikel
+          outputs: |
+            dist/github-snake.svg?color_snake=#2F6B4A&color_dots=#EAF8EE,#BFE8CB,#8FD3A4,#5FBF8A,#2F6B4A&color_dot_border=#D5EFDD
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
