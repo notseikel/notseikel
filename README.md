@@ -11,25 +11,17 @@
 ### .:*~*:._.:*~*:. ° sobre mí ° .:*~*:._.:*~*:.
  
 </div>
-```text
+
  .--------------------------------------------------.
  |  > creator content                               |
  |  > based in Barranquilla, Colombia               |
  |  > currently exploring: Modding                  |
  '--------------------------------------------------'
-```
-
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 <div align="center">
   
 ### .:*~*:._.:*~*:. ° find me ° .:*~*:._.:*~*:.
- 
-```text
- +----------+----------+----------+----------+
- |    >     |    >     |    >     |    >     |
- +----------+----------+----------+----------+
-```
  
 <a href="https://www.youtube.com/@seikelomg"><img src="https://img.shields.io/badge/YouTube-Minecraft-8FD3A4?style=for-the-badge&logo=youtube&logoColor=2F6B4A&labelColor=EAF8EE"/></a>
 <a href="https://www.youtube.com/@seikeeelhack"><img src="https://img.shields.io/badge/YouTube-Hacking-F5A3A3?style=for-the-badge&logo=youtube&logoColor=9B3A3A&labelColor=FDECEC"/></a>
@@ -55,9 +47,6 @@
 
 ### .:*~*:._.:*~*:. ° stats ° .:*~*:._.:*~*:.
  
-```text
- .:::::::::::::::::::::::::::::::::::::::::::.
-```
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notseikel&hide_border=true&background=EAF8EE&ring=8FD3A4&fire=5FBF8A&currStreakLabel=4E9F6F&sideLabels=4E9F6F&currStreakNum=2F6B4A&sideNums=2F6B4A&dates=6FAE86" alt="racha de contribuciones"/>
 
 </div>
@@ -67,10 +56,6 @@
 <div align="center">
 
 ### .:*~*:._.:*~*:. ° contributions ° .:*~*:._.:*~*:.
- 
-```text
- o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
-```
 <img src="https://raw.githubusercontent.com/notseikel/notseikel/output/github-snake.svg" alt="serpiente de contribuciones" width="100%"/>
 
 </div>
