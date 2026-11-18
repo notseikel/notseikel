@@ -74,4 +74,4 @@ $ status
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-<img src="./assets/footer.svg" alt="" width="100%"/>
+<img src="./assets/footer.svg" alt="footer" width="100%"/>
