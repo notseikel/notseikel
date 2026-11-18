@@ -11,11 +11,11 @@
 ### ° sobre mí °
 
 </div>
-*
+
 > Creator content, based in Barranquilla, Colombia.
 >
 > currently exploring: Modding
-*
+
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 <div align="center">
