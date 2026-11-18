@@ -12,23 +12,14 @@
 
 </div>
 
-```text
-$ whoami
-> seikel
+> **Creator content, based in Barranquilla, Colombia.
+>
+> currently exploring: Modding
+⋆
 
-$ cat misiones.txt
-> [x] crear contenido de videojuegos (Minecraft y más)
-> [x] crear contenido de hacking
-
-$ status
-> Editando
-```
-
-> Soy **Seikel**, creador de contenido en YouTube de **videojuegos** y **hacking**.
 <img src="./assets/divider.svg" alt="" width="100%"/>
-
 <div align="center">
-
+  
 ### ° find me °
 
 <a href="https://www.youtube.com/@seikelomg"><img src="https://img.shields.io/badge/YouTube-Minecraft-8FD3A4?style=for-the-badge&logo=youtube&logoColor=2F6B4A&labelColor=EAF8EE"/></a>
