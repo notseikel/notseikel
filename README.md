@@ -12,9 +12,9 @@
  
 </div>
 
-> creator content                             
-> based in Barranquilla, Colombia              
-> currently exploring: Modding                 
+> Creator content                             
+> Based in Barranquilla, Colombia              
+> +100k Youtube               
 
  
 <img src="./assets/divider.svg" alt="" width="100%"/>
